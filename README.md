@@ -1,6 +1,6 @@
 🧩 Vue Ticket Management App
 
-Live Demo: https://mykaelyung.github.io/vue-ticketapp
+Live Demo: https://mychaelyung.github.io/ticketbooth-vue/
 
 ⚙️ Setup
 git clone https://github.com/Mychaelyung/ticketbooth-vue.git
